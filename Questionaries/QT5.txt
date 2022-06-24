@@ -1,0 +1,5 @@
+Arthur Font Gouveia - 12036152
+
+C é a soma dos quadrados dos pesos das hipóteses. Lambda é um parâmetro que depende do C, do conjunto de dados e de outras informações. O lambda é obtido através da validação e não através de uma solução.
+
+C e lambda estão diretamente relacionados, quando o C aumenta o lambda diminui, e vice-versa. Utilizamos lambda ao invés de C para adaptar o problema de otimizaçã o para uma versão irrestrita.
